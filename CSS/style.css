@@ -1,0 +1,124 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: "Cinzel Decorative", cursive;
+  color: #40514e;
+}
+p {
+  line-height: 2;
+}
+h1 {
+  font-size: 5vw;
+  text-shadow: 4px 4px 5px #025658;
+  color: #17bfc5;
+  margin-top: 50px;
+  padding-top: 10%;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  font-family: "Orbitron", sans-serif;
+}
+h2 {
+  font-size: 3vw;
+  color: #17bfc5;
+  font-family: "Chakra Petch", sans-serif;
+}
+h3 {
+  font-size: 2vw;
+  color: #17bfc5;
+  font-family: "Chakra Petch", sans-serif;
+}
+hr {
+  border: dotted #3c4b4baf 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 2% auto;
+}
+
+.top {
+  background-color: #a8e7e9;
+  margin-top: 0px;
+  border: rgba(167, 180, 199, 0.507) solid 10px;
+  position: relative;
+  padding-top: 100px;
+}
+.mid {
+  padding: 0px 100px 0 100px;
+}
+.bottom {
+  background-color: #66bfbf;
+  display: inline-block;
+  width: 100%;
+}
+img {
+  margin: 0px;
+  display: inline-block;
+}
+.lil {
+  width: 10%;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  display: inline-block;
+}
+.lir {
+  width: 10%;
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  display: inline-block;
+}
+.ce {
+  width: 100%;
+}
+.all-image {
+  width: 20%;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+.nowrap {
+  white-space: nowrap;
+}
+.arrowl {
+  position: relative;
+  width: 10%;
+  right: 52%;
+  bottom: 0px;
+  padding-bottom: 2%;
+}
+.arrowr {
+  width: 10%;
+  position: relative;
+  left: 10%;
+  bottom: 0px;
+  padding-bottom: 2%;
+}
+/*.skill-row{
+}*/
+.imagepad {
+  padding-top: 10px
+}
+.contact {
+  display: inline-block;
+  position: relative;
+  right: 9%;
+  bottom: 0%;
+  color: green;
+  font-size: 2vw;
+}
+.knowme {
+  display: inline-block;
+  position: relative;
+  left: 30%;
+  bottom: 0%;
+  padding-bottom: 0%;
+  color: green;
+  font-size: 2vw;
+}
+.footer-link{
+  margin-bottom: 0;
+}
+.arrow{
+  position: relative;
+  margin-bottom: 90%;
+}
